@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة نوب وتوزيع مياه الخزان",
+  "description": "نظام متكامل لإدارة وتدوير نوب توزيع مياه الخزان (سعة 60 وحدة) عبر 43 مجموعة ودورة كاملة مدتها 43 يوماً مع توثيق سجلات المستفيدين وأنواع النوب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
